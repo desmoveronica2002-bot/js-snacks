@@ -1,12 +1,12 @@
-let N1 = Number(prompt('N1'));
-let N2 = Number(prompt('N2'));
+let N1 = Number(prompt('n1'));
+let N2 = Number(prompt('n2'));
 
-if(N1<N2){
-    console.log(N2)
+if(n1<n2){
+    console.log(n2)
 }
-else if(N1>N2){
-    console.log(N1)
+else if(n1>n2){
+    console.log(n1)
 }
 else {
-    console.log(N1,N2)
+    console.log(n1,n2)
 }
