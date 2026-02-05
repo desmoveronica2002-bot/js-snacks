@@ -1,4 +1,4 @@
-let sum=0;
+const sum=0;
 
 for(let i=0; i<11; i++){
    let num = Number(prompt("numero"));
