@@ -1,5 +1,5 @@
-let N1 = Number(prompt('n1'));
-let N2 = Number(prompt('n2'));
+let n1 = Number(prompt('n1'));
+let n2 = Number(prompt('n2'));
 
 if(n1<n2){
     console.log(n2)
